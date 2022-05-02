@@ -1,11 +1,11 @@
 {
-  "name": "SuperfluidLayout",
+  "name": "superfluidlayout",
   "version": "1.0.0",
   "description": "",
   "default": "dist/index.html",
   "scripts": {
     "start": "parcel src/index.html --open",
-    "clean": "rm -rf dist/*",
+    "clean": "npx rimraf dist",
     "build:parcel": "parcel build src/index.html --no-content-hash --no-source-maps --public-url ./",
     "build": "npm run clean && npm run build:parcel"
   },
@@ -26,6 +26,7 @@
   "dependencies": {
     "gsap": "^3.7.1",
     "imagesloaded": "^4.1.4",
+    "rimraf": "^3.0.2",
     "split-type": "^0.2.5"
   }
 }
