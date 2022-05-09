@@ -50,7 +50,7 @@
 75C:\Users\Jason\Desktop\Software\Jason\node_modules\htmlparser2\package.json132959900451649647 0
 75C:\Users\Jason\Desktop\Software\Jason\node_modules\postcss-value-parser\lib132959900451739646 1
 62C:\Users\Jason\Desktop\Software\Jason\node_modules\yaml\map.js132959900452059656 0
-42C:\Users\Jason\Desktop\Software\Jason\dist132960148202239728 1
+42C:\Users\Jason\Desktop\Software\Jason\dist132965292469914412 1
 74C:\Users\Jason\Desktop\Software\Jason\node_modules\escalade\dist\index.mjs132959900451429645 0
 58C:\Users\Jason\Desktop\Software\Jason\dist\18.145b6e0b.jpg132959900046938619 0
 79C:\Users\Jason\Desktop\Software\Jason\node_modules\whatwg-url\lib\urlencoded.js132959900451499647 0
@@ -85,7 +85,7 @@
 76C:\Users\Jason\Desktop\Software\Jason\node_modules\is-arrayish\.editorconfig132959900451499647 0
 45C:\Users\Jason\Desktop\Software\Jason\src\img132959900051649514 1
 68C:\Users\Jason\Desktop\Software\Jason\node_modules\minimatch\LICENSE132959911903916342 0
-52C:\Users\Jason\Desktop\Software\Jason\src\index.html132960148515498082 0
+52C:\Users\Jason\Desktop\Software\Jason\src\index.html132965292468863141 0
 78C:\Users\Jason\Desktop\Software\Jason\node_modules\gsap\types\pixi-plugin.d.ts132959900454249646 0
 52C:\Users\Jason\Desktop\Software\Jason\src\img\12.jpg132959900049861950 0
 78C:\Users\Jason\Desktop\Software\Jason\node_modules\htmlnano\lib\presets\max.js132959900452059656 0
@@ -4477,4 +4477,4 @@
 60C:\Users\Jason\Desktop\Software\Jason\dist\index.739bf03c.js132960141967658171 0
 64C:\Users\Jason\Desktop\Software\Jason\dist\index.739bf03c.js.map132960141967708165 0
 61C:\Users\Jason\Desktop\Software\Jason\dist\index.d046a61c.css132959900546021629 0
-53C:\Users\Jason\Desktop\Software\Jason\dist\index.html132960148202219728 0
+53C:\Users\Jason\Desktop\Software\Jason\dist\index.html132965292469904401 0
